@@ -1,0 +1,59 @@
+Ward,Timestamp,PM2.5 (ug/m3),PM10 (ug/m3),PM2.5 (mg/m3)
+Ward 45 (Industrial),2026-11-12 06:00,105,185,
+Ward 45 (Industrial),12/11/2026 08:00,120,210,
+Ward 45 (Industrial),12-Nov-2026 10:00 AM,138,230,
+Ward 45 (Industrial),2026/11/12 12:00,152,245,
+Ward 45 (Industrial),12-11-2026 14:00,165,260,
+Ward 45 (Industrial),2026-11-12 16:00,180,285,
+Ward 45 (Industrial),12/11/2026 18:00,210,320,
+Ward 45 (Industrial),12-Nov-2026 08:00 PM,235,355,
+Ward 45 (Industrial),2026-11-13 06:00,260,390,
+Ward 45 (Industrial),13/11/2026 08:00,295,420,
+Ward 45 (Industrial),13-Nov-2026 10:00 AM,330,460,
+Ward 45 (Industrial),2026/11/13 12:00,365,490,
+Ward 45 (Industrial),13-11-2026 14:00,390,520,
+Ward 45 (Industrial),2026-11-13 16:00,415,550,
+Ward 45 (Industrial),13/11/2026 18:00,430,580,
+Ward 12 (Central Indiranagar),2026-11-12 06:00,32,65,
+Ward 12 (Central Indiranagar),12/11/2026 08:00,38,72,
+Ward 12 (Central Indiranagar),12-Nov-2026 10:00 AM,35,68,
+Ward 12 (Central Indiranagar),2026/11/12 12:00,NA,70,
+Ward 12 (Central Indiranagar),12-11-2026 14:00,34,,
+Ward 12 (Central Indiranagar),2026-11-12 16:00,36,75,
+Ward 12 (Central Indiranagar),12/11/2026 18:00,310,410,
+Ward 12 (Central Indiranagar),12-Nov-2026 08:00 PM,42,80,
+Ward 12 (Central Indiranagar),2026-11-13 06:00,30,62,
+Ward 12 (Central Indiranagar),13/11/2026 08:00,N/A,66,
+Ward 12 (Central Indiranagar),13-Nov-2026 10:00 AM,33,65,
+Ward 12 (Central Indiranagar),2026/11/13 12:00,-,71,
+Ward 12 (Central Indiranagar),13-11-2026 14:00,35,74,
+Ward 12 (Central Indiranagar),2026-11-13 16:00,39,78,
+Ward 07 (Lalbagh Green),2026-11-12 06:00,24,48,
+Ward 07 (Lalbagh Green),12/11/2026 08:00,26,52,
+Ward 07 (Lalbagh Green),12-Nov-2026 10:00 AM,28.4,55,
+Ward 07 (Lalbagh Green),2026/11/12 12:00,28.4,55,
+Ward 07 (Lalbagh Green),12-11-2026 14:00,28.4,55,
+Ward 07 (Lalbagh Green),2026-11-12 16:00,28.4,55,
+Ward 07 (Lalbagh Green),12/11/2026 18:00,28.4,55,
+Ward 07 (Lalbagh Green),12-Nov-2026 08:00 PM,28.4,55,
+Ward 07 (Lalbagh Green),2026-11-12 22:00,28.4,55,
+Ward 07 (Lalbagh Green),2026-11-13 06:00,25,50,
+Ward 07 (Lalbagh Green),13/11/2026 08:00,27,53,
+Ward 07 (Lalbagh Green),13-Nov-2026 10:00 AM,29,56,
+Ward 07 (Lalbagh Green),2026/11/13 12:00,31,58,
+Ward 07 (Lalbagh Green),13-11-2026 14:00,30,57,
+Ward 88 (Old Market),2026-11-12 06:00,,,0.075
+Ward 88 (Old Market),12/11/2026 08:00,,,0.088
+Ward 88 (Old Market),12-Nov-2026 10:00 AM,,,0.095 mg/m3
+Ward 88 (Old Market),2026/11/12 12:00,,,0.105
+Ward 88 (Old Market),12-11-2026 14:00,,,null
+Ward 88 (Old Market),2026-11-12 16:00,,,0.112
+Ward 88 (Old Market),12/11/2026 18:00,,,-0.018
+Ward 88 (Old Market),12-Nov-2026 08:00 PM,,,0.118
+Ward 88 (Old Market),2026-11-13 06:00,,,0.082
+Ward 88 (Old Market),13/11/2026 08:00,,,0.090
+Ward 88 (Old Market),13-Nov-2026 10:00 AM,,,0.102
+Ward 88 (Old Market),2026/11/13 12:00,,,0.108
+Ward 88 (Old Market),13-11-2026 14:00,,,0.115
+Ward 88 (Old Market),2026-11-13 16:00,,,0.120
+
